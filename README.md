@@ -54,9 +54,9 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikml&show_icons=true&locale=en" alt="kaushikml" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot-aditya&show_icons=true&locale=en" alt="bot-aditya" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikml&" alt="kaushikml" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bt-aditya&" alt="bot-aditya" />
 </p>
