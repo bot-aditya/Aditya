@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Machine+Learning+Explorer;Design+Enthusiast;Hostel+5+%7C+IIT+Bombay;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityatadwalkar&show_icons=true&theme=radical&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityatadwalkar&theme=radical&hide_border=true" width="48%"/> </p>
 ---
 
 ### 🧠 About Me
