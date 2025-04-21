@@ -1,70 +1,40 @@
-<!-- GitHub Profile README: Aditya Tadwalkar Edition -->
+<img alt="Master" height="350" width="1080" src="https://pixeljoint.com/files/icons/full/astebros_camp_loc.gif">
+<h1 align="center">Hi 👋, I'm Kaushik Roy</h1>
+<h3 align="center">I am AI/ML Engineer with solid knowledge in NLP , Computer Vision and AI powered projects. I usually work on Tensorflow.</h3>
+<img align="right" alt="Coding" height="300" width="400" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/737340/extras/WildLight_2x_Short.gif?t=1682704059">
 
-<h1 align="center">Yo! I'm Aditya Tadwalkar 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F797D1&center=true&vCenter=true&width=435&lines=ML+%7C+Design+%7C+Dance;IIT+Bombay+%7C+Hostel+5+%F0%9F%8F%A9;Creative+by+Heart%2C+Coder+by+Curiosity;Always+up+for+building+cool+stuff+%F0%9F%A7%AA" alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikml&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikml" /> </p>
+
+- 🔭 I’m currently working on **Autonomous agent system**
+
+- 🌱 I’m currently learning **Fine-tuning AI models**
+
+- 👯 I’m looking to collaborate on **Transformers Project**
+
+- 🤝 I’m looking for help with **Web Dev Framewroks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/KaushikML](https://github.com/KaushikML)
+
+- 💬 Ask me about **AI agents, Deep Learning**
+
+- 📫 How to reach me **roykaushik354@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-wQKhFLPWWNVzvdl0U7WMQhyX4OfMfAP/view?usp=drive_link](https://drive.google.com/file/d/1-wQKhFLPWWNVzvdl0U7WMQhyX4OfMfAP/view?usp=drive_link)
+
+- ⚡ Fun fact **I always learn something new and then forget about it.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kaushikml2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushikml2024" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaushikml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushikml" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kaushikroy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushikroy12" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🔥 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushikml&show_icons=true&locale=en&layout=compact" alt="kaushikml" /></p>
 
-- 🎓 Third-year undergrad @ **IIT Bombay**, Materials Science & Metallurgical Engg  
-- 💃 Part of IITB’s dance crew & cultural circuit — *art keeps me sane*  
-- 🤖 Exploring **Machine Learning**, **Generative AI**, and everything in between  
-- 🎨 Fashion-forward & merch designer for Hostel 5 aka **Penthouse**  
-- 🌱 Currently: diving into deep learning + improving my rap game  
-- 🧪 BTP: Electrical characterization of dielectric materials (yes, I can nerd out too)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikml&show_icons=true&locale=en" alt="kaushikml" /></p>
 
----
-
-### ⚙️ Tech Stack
-
-```js
-const techStack = {
-  languages: ['Python', 'C++', 'JavaScript'],
-  ai_tools: ['scikit-learn', 'TensorFlow', 'PyTorch', 'OpenCV'],
-  design: ['Figma', 'Canva', 'Photoshop'],
-  utilities: ['Git', 'Linux', 'Markdown'],
-  learningNow: ['NLP', 'DALL·E', 'LangChain']
-};
-```
-
----
-
-### 📈 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityatadwalkar&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityatadwalkar&theme=radical&hide_border=true" width="48%"/>
-</p>
-
----
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31yermvkmdgavpsff44vzjk5b7fm)
-
-> Fav artist right now: **Seedhe Maut** 🎤  
-> Rap goal: Spit **Encore’s verse** in *Luka Chipi* perfectly 🔥
-
----
-
-### 🧩 Projects That Represent Me
-
-- 🎨 **Hostel 5 Merch** – Minimalist yet bold hoodie for the cult of Penthouse  
-- 🧠 **ML Project** – Predictive model for ceramic crown materials  
-- 👻 **Halloween Story** – Narrative builder: rebirth of the supreme devil  
-- 🤖 **Chatbot Concept** – GenAI assistant for IITB's internal queries  
-
----
-
-### 📡 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-tadwalkar12)  
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adityatadwalkar_/)  
-[![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:tadwalkaraditya@gmail.com)
-
----
-
-> _“Balance is everything — 30% chaos, 70% calm. That’s how I roll.”_
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikml&" alt="kaushikml" /></p>
